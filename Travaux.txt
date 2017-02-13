@@ -3,3 +3,5 @@ Git et github
 
 ajouté une ligne
 
+Fin du fichier retour sur bash git,
+pour ziper et envoyer.
